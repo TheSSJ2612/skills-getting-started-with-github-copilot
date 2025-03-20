@@ -142,3 +142,19 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants {
+  color: #333;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.participant-bubble {
+  display: inline-block;
+  background-color: #e0f7fa;
+  color: #00796b;
+  padding: 5px 10px;
+  border-radius: 15px;
+  margin: 2px;
+  font-size: 14px;
+}
